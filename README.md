@@ -3,6 +3,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juliedornat" alt="juliedornat" /></a> </p>
 
+<p>
+This is my GitHub profile. It mainly allows me to collaborate on school and personal IT development projects. During my studies, I had the opportunity to contribute to projects in web development, image processing (circle recognition with the Hough transform), artificial intelligence (F1 classification with a CNN) and virtual reality. At the same time, I also took part in exercises to acquire new skills in software quality, testing and programming. Most of the repositories are private.
+</p>
+
 - 🔭 I’m currently working on **datascience private project**
 
 - 🌱 I’m currently learning **about neural network with TensorFlow**
