@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Julie Dornat</h1>
-<h3 align="center">A passionate developer from France</h3>
+<h3 align="center">A passionate IT developer from France</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juliedornat" alt="juliedornat" /></a> </p>
 
@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **decision-making project**
 
-- 🤝 I’m currently working with **my classmates**
+- 🤝 I’m currently working with **my classmates and in a research team**
 
 - 👨‍💻 All of my projects are available at [www.linkedin.com/in/julie-dornat](www.linkedin.com/in/julie-dornat)
 
